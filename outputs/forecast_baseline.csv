@@ -1,0 +1,4 @@
+model,MAE_KRW,MAPE_%
+Naive (last value),10.556,0.727
+MA20 mean,14.406,0.985
+Drift (120d slope),14.557,1.006
